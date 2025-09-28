@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "5 Benefits of Aromatherapy",
+    "excerpt": "Discover how aromatherapy can reduce stress and improve sleep quality naturally.",
+    "content": "Aromatherapy has been used for centuries to promote physical and psychological well-being. The practice involves using essential oils extracted from plants to enhance health and mood. Research shows that aromatherapy can significantly reduce stress levels, improve sleep quality, boost cognitive function, relieve pain, and strengthen the immune system. Lavender, for instance, is renowned for its calming properties, while peppermint can help with concentration and energy.",
+    "image": "https://img.freepik.com/free-photo/unrecognizable-therapist-pouring-oil-her-hands-before-massage-treatment-wellness-center_637285-2057.jpg?ga=GA1.1.1664231966.1748793941&semt=ais_hybrid&w=740&q=80",
+    "tags": ["wellness", "stress-relief"],
+    "category": "Health"
+  },
+  {
+    "id": 2,
+    "title": "Why Yoga Improves Productivity",
+    "excerpt": "Yoga is more than exercise – it boosts focus and energy levels throughout the day.",
+    "content": "Yoga combines physical postures, breathing exercises, and meditation to create a holistic practice that benefits both body and mind. Regular yoga practice has been shown to increase productivity by reducing stress, improving focus, boosting energy levels, and enhancing overall well-being. The mindfulness cultivated through yoga helps individuals stay present and focused on tasks, leading to better time management and efficiency in both personal and professional life.",
+    "image": "https://img.freepik.com/free-photo/focused-people-meditating-yoga-class_1262-16103.jpg",
+    "tags": ["yoga", "productivity"],
+    "category": "Lifestyle"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Spa Treatments in 2025",
+    "excerpt": "Check out the most popular spa treatments people love this year.",
+    "content": "The spa industry continues to evolve with innovative treatments that combine traditional techniques with modern technology. In 2025, the top treatments include cryotherapy facials, infrared sauna sessions, CBD-infused massages, float therapy, sound healing, halotherapy, gua sha facial massage, bamboo massage, aromatherapy immersion, and personalized wellness retreats. These treatments focus on holistic well-being, addressing both physical and mental health concerns.",
+    "image": "https://img.freepik.com/free-photo/woman-getting-hyaluronic-acid-injection_23-2149343906.jpg?ga=GA1.1.1664231966.1748793941&semt=ais_hybrid&w=740&q=80",
+    "tags": ["spa", "trends"],
+    "category": "Wellness"
+  }
+]
