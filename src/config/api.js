@@ -1,4 +1,4 @@
-const WP_API_BASE = "https://webtutorialhindi.com/wp-json/wp/v2";
+const WP_API_BASE = "http://service-manager.test/wp-json/wp/v2";
 
 export const API_ENDPOINTS = {
   SERVICES: `${WP_API_BASE}/services`,
